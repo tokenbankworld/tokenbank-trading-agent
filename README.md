@@ -27,7 +27,7 @@ A model can be wrong, and it can be talked into things (prompt injection). So th
 ## Quick start
 
 ```bash
-git clone https://github.com/tokenbank-world/tokenbank-trading-agent.git
+git clone https://github.com/tokenbankworld/tokenbank-trading-agent.git
 cd tokenbank-trading-agent
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
@@ -69,7 +69,7 @@ Model ids can be changed with `CLAUDE_MODEL` / `OPENAI_MODEL`.
 
 - [AI trading bots for stocks](https://tokenbank.world/guides/ai-trading-bots-for-stocks?utm_source=github&utm_medium=readme&utm_campaign=trading-agent) — which brokers allow bots, and tokenized stocks that trade 24/7
 - [Trading bot vs human vs copy trading](https://tokenbank.world/guides/trading-bot-vs-human?utm_source=github&utm_medium=readme&utm_campaign=trading-agent)
-- [TokenBank MCP server](https://github.com/tokenbank-world/tokenbank-mcp) — read-only data on tokenized assets for agents
+- [TokenBank MCP server](https://github.com/tokenbankworld/tokenbank-mcp) — read-only data on tokenized assets for agents
 
 ## License
 
